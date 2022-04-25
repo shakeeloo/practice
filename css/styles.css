@@ -6,3 +6,9 @@
 body{
     background-color: antiquewhite;
 }
+h2{
+    background-color: crimson;
+    color: whitesmoke;
+    font-size: 50px;
+    text-transform: uppercase;
+}
